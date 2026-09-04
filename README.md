@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 Lisium - Steam Bedava Oyun İndirme İstemcisi
+# 🎮 Lisium - Steam Bedava Oyun İndirme 
 
 **Steam üzerindeki oyunları tamamen ücretsiz olarak bilgisayarınıza indirip oynamanızı sağlayan masaüstü uygulaması.**
 
@@ -72,7 +72,5 @@
 **PATRICK**
 
 ---
-
-> ⚠️ **Sorumluluk Reddi:** Bu yazılım deneysel ve eğitim amaçlı geliştirilmiştir. Valve Corporation veya Steam ile herhangi bir resmi bağı bulunmamaktadır.
 
 </div>
