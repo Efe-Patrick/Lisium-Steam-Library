@@ -46,7 +46,7 @@
     <td align="center" colspan="2" width="100%">
       <br/>
       <b>⚙️ Ayarlar & Yapılandırma</b><br/><br/>
-      <img src="https://github.com/user-attachments/assets/0ed22cd5-af87-48d9-baa1-675c4297b9d8" width="70%" />
+      <img src="https://github.com/user-attachments/assets/0ed22cd5-af87-48d9-baa1-675c4297b9d8" width="100%" />
     </td>
   </tr>
 </table>
