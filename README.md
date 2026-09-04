@@ -66,11 +66,9 @@
 
 ---
 
-<div align="center">
+## 👤 Geliştirici
 
-### 👤 Geliştirici
 **PATRICK**
 
 ---
 
-</div>
