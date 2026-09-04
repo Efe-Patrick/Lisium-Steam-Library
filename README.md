@@ -10,8 +10,8 @@
 
 <br />
 
-<!-- ANA EKRAN FOTOĞRAFI -->
-<img src="assets/preview.png" alt="Lisium Ana Ekran" width="850" style="border-radius: 10px;" />
+<!-- ANA EKRAN (VİTRİN) -->
+<img src="https://github.com/user-attachments/assets/3de66e5d-0780-40fd-a57b-cac00298efef" alt="Lisium Ana Ekran" width="100%" />
 
 </div>
 
@@ -30,14 +30,26 @@
 ## 📸 Ekran Görüntüleri
 
 <div align="center">
-  
-  <img width="1387" height="872" alt="image" src="https://github.com/user-attachments/assets/3de66e5d-0780-40fd-a57b-cac00298efef" />
-  
-  <img width="1378" height="885" alt="image" src="https://github.com/user-attachments/assets/3be09fa8-f844-44a1-8a58-6a452b2e3488" />
-  
-  <img width="1376" height="884" alt="image" src="https://github.com/user-attachments/assets/b47f40cf-a2b6-4deb-a13f-a519ae0563c3" />
-  
-  <img width="1379" height="887" alt="image" src="https://github.com/user-attachments/assets/0ed22cd5-af87-48d9-baa1-675c4297b9d8" />
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>🎮 Oyun Kataloğu</b><br/><br/>
+      <img src="https://github.com/user-attachments/assets/3be09fa8-f844-44a1-8a58-6a452b2e3488" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <b>📥 İndirme & Detay Ekranı</b><br/><br/>
+      <img src="https://github.com/user-attachments/assets/b47f40cf-a2b6-4deb-a13f-a519ae0563c3" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" width="100%">
+      <br/>
+      <b>⚙️ Ayarlar & Yapılandırma</b><br/><br/>
+      <img src="https://github.com/user-attachments/assets/0ed22cd5-af87-48d9-baa1-675c4297b9d8" width="70%" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -67,5 +79,7 @@
 **PATRICK**
 
 ---
+
+> ⚠️ **Sorumluluk Reddi:** Bu yazılım deneysel ve eğitim amaçlı geliştirilmiştir. Valve Corporation veya Steam ile herhangi bir resmi bağı bulunmamaktadır.
 
 </div>
