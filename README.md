@@ -68,7 +68,7 @@
 
 ## 👤 Geliştirici
 
-**PATRICK**
+**⚡PATRICK**
 
 ---
 
