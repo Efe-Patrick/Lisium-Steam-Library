@@ -11,7 +11,7 @@
 <br />
 
 <!-- ANA EKRAN (VİTRİN) -->
-<img src="https://github.com/user-attachments/assets/3de66e5d-0780-40fd-a57b-cac00298efef" alt="Lisium Ana Ekran" width="100%" />
+<img src="https://github.com/user-attachments/assets/3de66e5d-0780-40fd-a57b-cac00298efef" alt="Lisium Ana Ekran" style="max-width: 100%; height: auto; border-radius: 8px;" />
 
 </div>
 
@@ -31,22 +31,22 @@
 
 <div align="center">
 
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding: 10px; vertical-align: top;">
       <b>🎮 Oyun Kataloğu</b><br/><br/>
-      <img src="https://github.com/user-attachments/assets/3be09fa8-f844-44a1-8a58-6a452b2e3488" width="100%" />
+      <img src="https://github.com/user-attachments/assets/3be09fa8-f844-44a1-8a58-6a452b2e3488" style="max-width: 100%; height: auto; display: block; border-radius: 6px;" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding: 10px; vertical-align: top;">
       <b>📥 İndirme & Detay Ekranı</b><br/><br/>
-      <img src="https://github.com/user-attachments/assets/b47f40cf-a2b6-4deb-a13f-a519ae0563c3" width="100%" />
+      <img src="https://github.com/user-attachments/assets/b47f40cf-a2b6-4deb-a13f-a519ae0563c3" style="max-width: 100%; height: auto; display: block; border-radius: 6px;" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2" width="100%">
+    <td align="center" colspan="2" width="100%" style="padding: 10px; vertical-align: top;">
       <br/>
       <b>⚙️ Ayarlar & Yapılandırma</b><br/><br/>
-      <img src="https://github.com/user-attachments/assets/0ed22cd5-af87-48d9-baa1-675c4297b9d8" width="100%" />
+      <img src="https://github.com/user-attachments/assets/0ed22cd5-af87-48d9-baa1-675c4297b9d8" style="max-width: 100%; height: auto; display: block; border-radius: 6px;" />
     </td>
   </tr>
 </table>
