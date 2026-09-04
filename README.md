@@ -30,12 +30,14 @@
 ## 📸 Ekran Görüntüleri
 
 <div align="center">
-  <img src="assets/games.png" alt="Lisium Oyun Kataloğu" width="800" style="border-radius: 8px; margin-top: 10px;" />
+  
   <img width="1387" height="872" alt="image" src="https://github.com/user-attachments/assets/3de66e5d-0780-40fd-a57b-cac00298efef" />
+  
   <img width="1378" height="885" alt="image" src="https://github.com/user-attachments/assets/3be09fa8-f844-44a1-8a58-6a452b2e3488" />
+  
   <img width="1376" height="884" alt="image" src="https://github.com/user-attachments/assets/b47f40cf-a2b6-4deb-a13f-a519ae0563c3" />
+  
   <img width="1379" height="887" alt="image" src="https://github.com/user-attachments/assets/0ed22cd5-af87-48d9-baa1-675c4297b9d8" />
-
 
 </div>
 
